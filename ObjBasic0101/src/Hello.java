@@ -5,4 +5,6 @@ public class Hello {
 		System.out.println("eclipseの世界へようこそ");
 	}
 //ローカルリポジトリの修正内容
+//リモートリポジトリの修正内容
+
 }
